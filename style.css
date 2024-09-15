@@ -120,7 +120,7 @@ body {
     }
     
     .container {
-        width: 77vw;
+        width: 85vw;
         display: flex;
         justify-content: flex-start;
         align-items: center;
@@ -129,7 +129,7 @@ body {
     }
     
     .image-container {
-        width: 38vw;
+        width: 42vw;
         height: 50vh;
         border-radius: 2%;
     }
