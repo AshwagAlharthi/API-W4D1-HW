@@ -76,7 +76,7 @@ body {
     }
     
     .container {
-        width: 77vw;
+        width: 90vw;
         display: flex;
         flex-direction: column;
         justify-content: center;
